@@ -5,7 +5,7 @@ This should be cloned to every new town/location that is created to provide guid
 Additional notes included are:
 
 1. how to set up a Github account, and why
-2. useful links to continue self-learning
+2. [useful links to continue self-learning] (https://github.com/codelikeagirlVodafoneIreland/General-info/blob/master/useful-links.md)
 3. ????
 4. ????
 5. ????
