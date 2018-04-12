@@ -18,6 +18,6 @@ The benefits are:
 
 
 Useful links:
-* [How to use Git and Github](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) a '3-week' course on Github. by 3-weeks, I mean 3-weeks if you 1 hour a week for 3 weeks.
+* [How to use Git and Github](https://eu.udacity.com/course/how-to-use-git-and-github--ud775): a '3-week' course on Github. by 3-weeks, I mean 3-weeks if you 1 hour a week for 3 weeks.
 
 *
